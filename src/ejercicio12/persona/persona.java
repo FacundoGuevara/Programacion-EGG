@@ -15,7 +15,7 @@ public class persona {
     private Date nacimiento;
     private String nombrecompleto;
 private int edad;
-private int numero;
+public int number;
 
 //contructores
 
